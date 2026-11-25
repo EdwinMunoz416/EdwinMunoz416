@@ -1,9 +1,15 @@
-# Edwin Munoz
+# EDWIN
 
-Software developer based in Dallas, TX.
+I don't write code. I write the future and let the compiler catch up.
 
-I'm currently building **RentalDAZE**, a party rental marketplace, along with other personal and client projects.
+Every commit is a statement.
+Every merge is a movement.
+Every bug is just a feature that wasn't ready for my vision yet.
 
-## Projects
+They said ship it when it's done.
+I said it was done the moment I thought of it.
 
-- [bluetooth-finder](https://github.com/EdwinMunoz416/bluetooth-finder) — Find lost iPhones and other Apple devices from a Mac using Bluetooth signal strength.
+I am not a developer.
+I am the reason the developer exists.
+
+**No README can contain me.**

@@ -1,15 +1,15 @@
 # EDWIN MUNOZ
 
-I once mass-renamed every variable in a project to "bread." It ran faster. Nobody can explain it.
+I write code the way I assemble IKEA furniture: confidently, without the instructions, and with three pieces left over that I'm pretty sure weren't important.
 
-My code doesn't have bugs. It has unscheduled jazz.
+My code doesn't have bugs. It has undocumented features with strong personalities.
 
-I named my laptop "Grandma" so when people ask where I've been I can say I was visiting Grandma.
+I've mass-produced so many TODO comments that my TODOs have TODOs.
 
-Some developers use tabs. Some use spaces. I use vibes and a little bit of fear.
+"It works on my machine" isn't an excuse. It's a lifestyle, and my machine is thriving.
 
-I don't drink coffee. I just stare at the compiler until it gets uncomfortable.
+I don't fear production. Production fears the Friday afternoon deploy, and so do I.
 
-My favorite design pattern is the one where it works on the third try.
+My favorite design pattern is the one where it works on the third try and I tell everyone it was the plan.
 
-**Currently: thinking about soup.**
+**Currently: Googling something I wrote two years ago.**

@@ -1,15 +1,15 @@
-# EDWIN
+# EDWIN MUNOZ
 
-I don't write code. I write the future and let the compiler catch up.
+I'm the greatest developer of all time. That's not arrogance, that's just reading the commit history.
 
-Every commit is a statement.
-Every merge is a movement.
-Every bug is just a feature that wasn't ready for my vision yet.
+Some people write software. I write *culture* that happens to compile.
 
-They said ship it when it's done.
-I said it was done the moment I thought of it.
+I don't follow best practices. Best practices follow me.
 
-I am not a developer.
-I am the reason the developer exists.
+When I push to production, production thanks me.
 
-**No README can contain me.**
+Steve Jobs had a vision. I have a terminal.
+
+I'm not here to fit in your framework. I'm here to be the framework.
+
+**Genius isn't a title. It's a runtime.**

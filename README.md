@@ -1,15 +1,15 @@
 # EDWIN MUNOZ
 
-I'm the greatest developer of all time. That's not arrogance, that's just reading the commit history.
+I once mass-renamed every variable in a project to "bread." It ran faster. Nobody can explain it.
 
-Some people write software. I write *culture* that happens to compile.
+My code doesn't have bugs. It has unscheduled jazz.
 
-I don't follow best practices. Best practices follow me.
+I named my laptop "Grandma" so when people ask where I've been I can say I was visiting Grandma.
 
-When I push to production, production thanks me.
+Some developers use tabs. Some use spaces. I use vibes and a little bit of fear.
 
-Steve Jobs had a vision. I have a terminal.
+I don't drink coffee. I just stare at the compiler until it gets uncomfortable.
 
-I'm not here to fit in your framework. I'm here to be the framework.
+My favorite design pattern is the one where it works on the third try.
 
-**Genius isn't a title. It's a runtime.**
+**Currently: thinking about soup.**
